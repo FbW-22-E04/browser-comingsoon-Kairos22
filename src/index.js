@@ -1,7 +1,8 @@
 import './styles/main.scss'; // Don't delete :)
-import smile from './scripts/smile.js'; // Feel free to delete :)
 
 // All of your javascript should go here :)
 
+const newYear = new Date('1 January 2023')
+console.log(newYear);
 
-smile() // Feel free to delete :)
+
